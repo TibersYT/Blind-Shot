@@ -10,8 +10,8 @@ firesignal(invisivel.OnClientEvent,
     false
 )
 
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.nuke.Visible = True
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.forcefield.Visible = True
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.reveal.Visible = True
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.bomb.Visible = True
+game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.nuke.Visible = False
+game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.forcefield.Visible = False
+game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.reveal.Visible = False
+game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.bomb.Visible = False
 end
