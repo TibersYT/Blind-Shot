@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TibersYT/Blind-Shot/refs/heads/main/Hacks.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TibersYT/Blind-Shot/refs/heads/main/Hacks2.lua"))()
