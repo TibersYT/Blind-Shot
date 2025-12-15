@@ -9,9 +9,4 @@ local invisivel = ReplicatedStorage.invisivel -- RemoteEvent
 firesignal(invisivel.OnClientEvent, 
     false
 )
-
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.nuke.Visible = False
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.forcefield.Visible = False
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.reveal.Visible = False
-game.Players.LocalPlayer.PlayerGui.ScreenGui.habilidades.bomb.Visible = False
 end
