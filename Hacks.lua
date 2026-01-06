@@ -27,6 +27,7 @@ local function executeActions()
                 local forcefield = habilidades:FindFirstChild("forcefield")
                 local reveal = habilidades:FindFirstChild("reveal")
                 local bomb = habilidades:FindFirstChild("bomb")
+                local trap = habilidades:FindFirstChild("trap")
                 
                 if nuke then
                     nuke.Visible = true
@@ -42,6 +43,10 @@ local function executeActions()
                 
                 if bomb then
                     bomb.Visible = true
+                end
+
+                if trap then
+                    trap.Visible = true
                 end
             end
         end
